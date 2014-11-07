@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/serverConnector/CounterTCPProxy.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/servizio/CounterService.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/servizio/RemoteCounterService.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/servizio/ConnectionOrientedService.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/client/ClientUI.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/servizio_impl/VectorClock.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/servizio_impl/SessionState.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/servizio_impl/CounterServant.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/serverConnector/ServantThread.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/client/Client.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/serverConnector/Server.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/servizio_impl/CounterState.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/client/connector/ClientTCPProxy.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/client/connector/ServiceFactory.java</file>
+            <file>file:/C:/Users/Alessandro/Documents/Sistemi_distribuiti/Esercitazione%231/Esercitazione%231/ClockVector-2014-11-02/ClockVector/src/servizio/CounterException.java</file>
+        </group>
+    </open-files>
+</project-private>
